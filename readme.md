@@ -16,3 +16,6 @@ jsonlite
 readxl
 ggplot
 sf
+
+## London
+![img]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png?raw=true")
