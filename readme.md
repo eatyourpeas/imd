@@ -20,8 +20,8 @@ R packages used:
 
 ## England/Wales
 
-![Alt text]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png" "Deprivation in England and Wales")
+<img src="https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png" alt="Deprivation in England and Wales" width="150"/>
 
 ## London
 
-![Alt text]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png" "Deprivation in London")
+<img src="https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png" alt="Deprivation in London" width="150"/>
