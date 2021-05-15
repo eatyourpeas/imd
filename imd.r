@@ -7,7 +7,8 @@ library(ggplot2)
 library(sf)
 
 
-London
+# London
+# ------
 
 # import 2019 deprivation data
 IMD2019 <- read_excel("Development/r/KAOS/IMD2019.xlsx", sheet = "IMD2019")
@@ -35,7 +36,9 @@ mid<-mean(londonIMD$IMDRank)
 mapplot+scale_color_gradient2(midpoint=mid, low="blue", mid="white", high="red", space ="Lab" ) + ggtitle("London", subtitle = "All Boroughs Ranked for Deprivation")
 
 
-UK
+# UK
+# ----
+
 # import 2019 deprivation data
 IMD2019 <- read_excel("Development/r/KAOS/IMD2019.xlsx", sheet = "IMD2019")
 # rename LSOA Code (2011) to LSOA11CD to match shape file col name
