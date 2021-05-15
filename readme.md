@@ -17,5 +17,10 @@ readxl
 ggplot
 sf
 
-## London
+## England/Wales
+
 ![img]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png?raw=true")
+
+## London
+
+![img]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png?raw=true")
