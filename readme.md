@@ -11,16 +11,17 @@ The datasets are publicly available - here stored as .xlsx but can be imported a
 3. The [LSOA boundaries](https://data.london.gov.uk/dataset/lsoa-atlas) for London
 
 R packages used:
-httr
-jsonlite
-readxl
-ggplot
-sf
+
+1. httr
+2. jsonlite
+3. readxl
+4. ggplot
+5. sf
 
 ## England/Wales
 
-![img]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png")
+![Alt text]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png" "Deprivation in England and Wales")
 
 ## London
 
-![img]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png")
+![Alt text]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png" "Deprivation in London")
