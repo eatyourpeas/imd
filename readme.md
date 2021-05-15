@@ -19,8 +19,8 @@ sf
 
 ## England/Wales
 
-![img]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png?raw=true")
+![img]("https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png")
 
 ## London
 
-![img]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png?raw=true")
+![img]("https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png")
