@@ -18,10 +18,10 @@ R packages used:
 4. ggplot
 5. sf
 
-## England/Wales
+### England/Wales
 
-<img src="https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png" alt="Deprivation in England and Wales" width="150"/>
+<img src="https://github.com/eatyourpeas/imd/blob/main/assets/england_wales_deprivation.png" alt="Deprivation in England and Wales" width="500"/>
 
-## London
+### London
 
-<img src="https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png" alt="Deprivation in London" width="150"/>
+<img src="https://github.com/eatyourpeas/imd/blob/main/assets/london_deprivation.png" alt="Deprivation in London" width="500"/>
